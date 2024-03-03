@@ -31,11 +31,6 @@ cite
     - [Training Resources](#training-resources)
     - [Evaluation Benchmarks](#evaluation-benchmarks)
   - [References](#references)
-    - [Model Architecture](#model-architecture-1)
-    - [Video Generation](#video-generation-1)
-    - [Application of Video Generation](#application-of-video-generation-1)
-    - [Applications in Specific Domains](#applications-in-specific-domains-1)
-    - [Resources and Evaluation](#resources-and-evaluation-1)
   - [Contact](#contact)
 
 ## Overview
